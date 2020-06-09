@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Program Files (x86)\Jenkins\workspace\HelloWorld1\HelloWorld\obj\Debug\HelloWorld.pdb

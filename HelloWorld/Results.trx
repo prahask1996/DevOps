@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8ddd2ad2-b473-484d-8a2d-d3a46dc747a4" name="SYSTEM@BALAMURAGAN 2020-06-09 11:55:18" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="1574ad53-7a14-4a8e-b311-a728515efe68">
+    <Deployment userDeploymentRoot="C:\Program Files (x86)\Jenkins\workspace\HelloWorld1" useDefaultDeploymentRoot="false" runDeploymentRoot="SYSTEM_BALAMURAGAN 2020-06-09 11_55_18" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2020-06-09T11:55:18.6914444+05:30" queuing="2020-06-09T11:55:19.0076680+05:30" start="2020-06-09T11:55:19.2243375+05:30" finish="2020-06-09T11:55:19.5142097+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\program files (x86)\jenkins\workspace\helloworld1\helloworldtests\bin\debug\helloworldtests.dll" id="5e31dd07-94a6-154a-c432-42c66e0a0486">
+      <Execution timeOut="1800000" id="fa3c8de3-ff76-40b3-9f47-0a82e1d56e8b" />
+      <TestMethod codeBase="C:/Program Files (x86)/Jenkins/workspace/HelloWorld1/HelloWorldTests/bin/debug/HelloWorldTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTests.UnitTest1, HelloWorldTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5e31dd07-94a6-154a-c432-42c66e0a0486" executionId="fa3c8de3-ff76-40b3-9f47-0a82e1d56e8b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fa3c8de3-ff76-40b3-9f47-0a82e1d56e8b" testId="5e31dd07-94a6-154a-c432-42c66e0a0486" testName="TestMethod1" computerName="BALAMURAGAN" duration="00:00:00.0268629" startTime="2020-06-09T11:55:19.2838746+05:30" endTime="2020-06-09T11:55:19.4039223+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa3c8de3-ff76-40b3-9f47-0a82e1d56e8b">
+    </UnitTestResult>
+  </Results>
+</TestRun>
